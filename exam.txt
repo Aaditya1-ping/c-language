@@ -1,0 +1,19 @@
+Implement a C program to find an average and a grade of a student. Consider 5 subjects. Assign out of 100 marks for each subject. Use conditions for evaluate grades based on average value.
+Write a C program to find the average of all elements in a 2D array using a function.
+Write a C program that defines a function to print only odd elements from 1D array elements.
+Write a C program to find even elements from an 1D array using Pointer.
+Develop a C program that uses structures to represent a laptop (with attributes like company_name, processor, and price). List N number of laptop' details using Array of objects.
+Write a C program that writes any N number of fruits' name along with their color name in a file called data.txt by taking input from user dynamically.
+Print a below pattern using nested for loop in C language:
+_ _ _ _ 10
+
+_ _ _ 9 10
+
+_ _ 8 9 10
+
+_ 7 8 9 10
+
+6 7 8 9 10
+
+Note: Consider _ as a whitespace.
+
